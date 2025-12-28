@@ -6,8 +6,8 @@ module.exports = {
     CLIENT_ID: process.env.CLIENT_ID,
     
     // ID SERWERÓW, PAMIETAJ TEAMS ID - Komendy działają tylko na tym serwerze, GUILD ID - Serwer do otrzymania ról klubowych
-    GUILD_ID_TEAMS: '1454442259364843724',
-    GUILD_ID_MAIN:  '1454442006863413447',
+    GUILD_ID_TEAMS: '1234567890123456789',
+    GUILD_ID_MAIN:  '1234567890123456789',
 
     // Konfiguracja Nazw Ról
     // Te nazwy ról muszą dokładnie pasować do nazw ról na Discordzie
@@ -21,4 +21,5 @@ module.exports = {
             'Server Booster', '@everyone', 'Administrator', 'Bot', 'Moderator', 'Support'
         ]
     }
+
 };
