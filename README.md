@@ -49,7 +49,7 @@ Zaawansowany bot Discord stworzony w oparciu o **discord.js v14**, służący do
 
 ### 2. Klonowanie i Instalacja
 ```bash
-git clone https://github.com/twoj-nick/Club-Manager-Bot.git
+git clone https://github.com/deziemniakv/Club-Manager-Bot.git
 cd Club-Manager-Bot
 npm install
 ```
