@@ -1,4 +1,5 @@
 # 🏆 Club Management Bot
+( readme wygenerowalo sztuczna intelignecja tak dla jasnosci ;) )
 
 Zaawansowany bot Discord stworzony w oparciu o **discord.js v14**, służący do zarządzania drużynami i klubami do federacji twojej na dwóch zsynchronizowanych serwerach Discord.
 
